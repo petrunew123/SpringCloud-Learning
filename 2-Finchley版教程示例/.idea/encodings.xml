@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Chapter3-1/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter3-1/order-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-1/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-1/order-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter4-1/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../参考代码/SpringCloudLearning/sc-f-chapter2/service-ribbon" charset="UTF-8" />
+  </component>
+</project>

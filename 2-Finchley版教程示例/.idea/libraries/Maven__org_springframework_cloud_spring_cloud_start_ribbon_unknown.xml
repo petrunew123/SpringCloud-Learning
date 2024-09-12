@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-start-ribbon:unknown">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../BigFile/maven Repository/org/springframework/cloud/spring-cloud-start-ribbon/unknown/spring-cloud-start-ribbon-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../BigFile/maven Repository/org/springframework/cloud/spring-cloud-start-ribbon/unknown/spring-cloud-start-ribbon-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../BigFile/maven Repository/org/springframework/cloud/spring-cloud-start-ribbon/unknown/spring-cloud-start-ribbon-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: order-service
+eureka:
+  client:
+    service-url:
+#    用于指定注册中心的地址
+      defaultZone: http://localhost:1111/eureka/
+server:
+  port: 8081
